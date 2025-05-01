@@ -35,4 +35,4 @@ Puedes ejecutar este código de la siguiente manera:
 ### Ejercicio
 
 
-<img src="https://github.com/user-attachments/assets/39d193ce-81b1-4335-a352-fd455c79b2e4" alt="Pagina Web Supercines" style="display: block; margin: 0 auto; border-radius: 50%;" />
+<img src="https://github.com/user-attachments/assets/39d193ce-81b1-4335-a352-fd455c79b2e4" alt="Pagina Web Supercines" style="display: block; margin: 0 auto; border-radius: 50" />
