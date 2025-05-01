@@ -33,5 +33,6 @@ Puedes ejecutar este código de la siguiente manera:
    node Fundamentos.js
 
 ### Ejercicio
+![image](https://github.com/user-attachments/assets/39d193ce-81b1-4335-a352-fd455c79b2e4)
 
 <img src="![image](https://github.com/user-attachments/assets/0cbb1b4d-04ea-4829-9449-c7e9a9aa589c)" alt="Pagina Web Supercines" style="display: block; margin: 0 auto;" />
