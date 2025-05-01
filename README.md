@@ -37,4 +37,8 @@ Puedes ejecutar este código de la siguiente manera:
 
 <img src="https://github.com/user-attachments/assets/39d193ce-81b1-4335-a352-fd455c79b2e4" 
      alt="Pagina Web Supercines" 
-     style="display: block; margin: 0 auto; border-radius: 50%;" />
+     style="display: block; margin: 0 auto;" />
+
+<img src="https://github.com/user-attachments/assets/8f457edc-93c5-4a1f-b339-ac1aa50fe03c" 
+     alt="Pagina Web Supercines" 
+     style="display: block; margin: 0 auto;" />
